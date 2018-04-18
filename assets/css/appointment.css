@@ -1,0 +1,30 @@
+button{
+	margin: .2em !important;
+	font-size: 1.6em !important;
+	width: 100% !important;
+}
+#main_view{
+	margin-top: 1em !important;
+}
+span{
+	font-size: 1.6em;
+}
+p{
+	font-size: 1.6em;
+}
+#loading-img {
+    background: url('http://preloaders.net/preloaders/360/Velocity.gif') center center no-repeat;
+    height: 100%;
+    z-index: 200000;
+}
+
+.overlay {
+    background: grey;
+    display: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    opacity: 0.5;
+}

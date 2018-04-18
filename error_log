@@ -1,0 +1,95 @@
+[29-Mar-2018 17:18:31 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/saletanc/public_html/pipe/application/includes\Exception.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/saletanc/public_html/pipe/application/controllers/Mail.php on line 6
+[30-Mar-2018 06:01:43 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/saletanc/public_html/pipe/application/includes\Exception.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/saletanc/public_html/pipe/application/controllers/Mail.php on line 6
+[30-Mar-2018 17:12:11 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/saletanc/public_html/pipe/application/includes\Exception.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/saletanc/public_html/pipe/application/controllers/Mail.php on line 6
+[30-Mar-2018 17:13:37 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/saletanc/public_html/pipe/application/includes\Exception.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/saletanc/public_html/pipe/application/controllers/Mail.php on line 6
+[30-Mar-2018 17:14:06 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/saletanc/public_html/pipe/application/includes\Exception.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/saletanc/public_html/pipe/application/controllers/Mail.php on line 6
+[30-Mar-2018 17:14:26 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/saletanc/public_html/pipe/application/includes\Exception.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/saletanc/public_html/pipe/application/controllers/Mail.php on line 6
+[30-Mar-2018 17:14:44 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/saletanc/public_html/pipe/application/includes\Exception.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/saletanc/public_html/pipe/application/controllers/Mail.php on line 6
+[30-Mar-2018 17:15:45 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/saletanc/public_html/pipe/application/includes\Exception.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/saletanc/public_html/pipe/application/controllers/Mail.php on line 6
+[30-Mar-2018 17:15:51 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/saletanc/public_html/pipe/application/includes\Exception.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/saletanc/public_html/pipe/application/controllers/Mail.php on line 6
+[30-Mar-2018 17:16:08 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/saletanc/public_html/pipe/application/includes\Exception.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/saletanc/public_html/pipe/application/controllers/Mail.php on line 6
+[30-Mar-2018 17:16:08 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/saletanc/public_html/pipe/application/includes\Exception.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/saletanc/public_html/pipe/application/controllers/Mail.php on line 6
+[30-Mar-2018 17:16:29 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/home/saletanc/public_html/pipe/application/includes\Exception.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/saletanc/public_html/pipe/application/controllers/Mail.php on line 6
+[31-Mar-2018 21:16:31 Etc/GMT] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/saletanc/public_html/pipe/application/models/Show_appoint.php on line 196
+[03-Apr-2018 17:12:05 Etc/GMT] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 22
+[05-Apr-2018 20:12:41 Asia/Kolkata] PHP Fatal error:  Unsupported operand types in /home/saletanc/public_html/pipe/application/models/Calendar_model.php on line 36
+[05-Apr-2018 20:14:01 Asia/Kolkata] PHP Fatal error:  Unsupported operand types in /home/saletanc/public_html/pipe/application/models/Calendar_model.php on line 36
+[05-Apr-2018 20:14:26 Asia/Kolkata] PHP Fatal error:  Unsupported operand types in /home/saletanc/public_html/pipe/application/models/Calendar_model.php on line 36
+[05-Apr-2018 20:18:09 Asia/Kolkata] PHP Fatal error:  Unsupported operand types in /home/saletanc/public_html/pipe/application/models/Calendar_model.php on line 30
+[05-Apr-2018 20:18:12 Asia/Kolkata] PHP Fatal error:  Unsupported operand types in /home/saletanc/public_html/pipe/application/models/Calendar_model.php on line 30
+[05-Apr-2018 20:18:40 Asia/Kolkata] PHP Fatal error:  Unsupported operand types in /home/saletanc/public_html/pipe/application/models/Calendar_model.php on line 30
+[05-Apr-2018 20:18:45 Asia/Kolkata] PHP Fatal error:  Unsupported operand types in /home/saletanc/public_html/pipe/application/models/Calendar_model.php on line 30
+[05-Apr-2018 20:19:01 Asia/Kolkata] PHP Fatal error:  Unsupported operand types in /home/saletanc/public_html/pipe/application/models/Calendar_model.php on line 30
+[07-Apr-2018 13:12:09 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 179
+[07-Apr-2018 13:12:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 179
+[07-Apr-2018 13:12:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 179
+[07-Apr-2018 13:12:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 179
+[07-Apr-2018 13:12:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 179
+[07-Apr-2018 13:12:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 179
+[07-Apr-2018 13:12:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 179
+[07-Apr-2018 13:12:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 179
+[07-Apr-2018 13:12:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 179
+[07-Apr-2018 13:12:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 179
+[07-Apr-2018 13:12:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 179
+[07-Apr-2018 13:12:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 179
+[07-Apr-2018 13:12:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 179
+[07-Apr-2018 13:12:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 179
+[07-Apr-2018 13:12:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 179
+[07-Apr-2018 13:12:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 179
+[07-Apr-2018 13:12:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 179
+[07-Apr-2018 13:12:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 179
+[07-Apr-2018 13:12:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 179
+[07-Apr-2018 13:12:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 179
+[07-Apr-2018 13:12:21 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 179
+[07-Apr-2018 13:12:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 179
+[07-Apr-2018 13:12:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 179
+[07-Apr-2018 13:12:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 179
+[07-Apr-2018 13:12:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 179
+[07-Apr-2018 13:12:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 179
+[07-Apr-2018 13:12:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 179
+[07-Apr-2018 13:12:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 181
+[07-Apr-2018 13:12:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 181
+[07-Apr-2018 13:12:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 181
+[07-Apr-2018 13:12:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 181
+[07-Apr-2018 13:12:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 181
+[07-Apr-2018 13:12:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 181
+[07-Apr-2018 13:12:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 181
+[07-Apr-2018 13:12:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 181
+[07-Apr-2018 13:12:35 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 181
+[07-Apr-2018 13:12:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 181
+[07-Apr-2018 13:12:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 181
+[07-Apr-2018 13:12:39 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 181
+[07-Apr-2018 13:12:39 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 181
+[07-Apr-2018 13:12:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 181
+[07-Apr-2018 13:12:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 181
+[07-Apr-2018 13:12:42 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 181
+[07-Apr-2018 13:12:43 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 181
+[07-Apr-2018 13:12:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 181
+[07-Apr-2018 13:12:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 181
+[07-Apr-2018 13:12:46 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 181
+[07-Apr-2018 13:12:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 181
+[07-Apr-2018 13:12:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 181
+[07-Apr-2018 13:12:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 181
+[07-Apr-2018 17:22:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'form' (T_STRING) in /home/saletanc/public_html/pipe/application/views/company_info.php on line 402
+[07-Apr-2018 22:19:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$values' (T_VARIABLE), expecting function (T_FUNCTION) in /home/saletanc/public_html/pipe/application/models/Show_emp.php on line 11
+[07-Apr-2018 22:19:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$values' (T_VARIABLE), expecting function (T_FUNCTION) in /home/saletanc/public_html/pipe/application/models/Show_emp.php on line 11
+[07-Apr-2018 22:19:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$values' (T_VARIABLE), expecting function (T_FUNCTION) in /home/saletanc/public_html/pipe/application/models/Show_emp.php on line 11
+[07-Apr-2018 22:20:46 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$values' (T_VARIABLE), expecting function (T_FUNCTION) in /home/saletanc/public_html/pipe/application/models/Show_emp.php on line 11
+[07-Apr-2018 22:20:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$values' (T_VARIABLE), expecting function (T_FUNCTION) in /home/saletanc/public_html/pipe/application/models/Show_emp.php on line 11
+[07-Apr-2018 22:22:00 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$values' (T_VARIABLE), expecting function (T_FUNCTION) in /home/saletanc/public_html/pipe/application/models/Show_emp.php on line 11
+[08-Apr-2018 02:08:34 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/saletanc/public_html/pipe/application/controllers/Home.php on line 206
+[08-Apr-2018 02:20:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/saletanc/public_html/pipe/application/views/company_info.php on line 524
+[08-Apr-2018 02:22:06 Asia/Kolkata] PHP Fatal error:  Unsupported operand types in /home/saletanc/public_html/pipe/application/models/Calendar_model.php on line 53
+[08-Apr-2018 02:25:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/saletanc/public_html/pipe/application/views/company_info.php on line 7
+[08-Apr-2018 02:26:01 Asia/Kolkata] PHP Fatal error:  Unsupported operand types in /home/saletanc/public_html/pipe/application/models/Calendar_model.php on line 53
+[08-Apr-2018 02:27:54 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/saletanc/public_html/pipe/application/views/company_info.php on line 7
+[08-Apr-2018 02:28:46 Asia/Kolkata] PHP Fatal error:  Unsupported operand types in /home/saletanc/public_html/pipe/application/models/Calendar_model.php on line 53
+[08-Apr-2018 02:30:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$value' (T_VARIABLE) in /home/saletanc/public_html/pipe/application/views/company_info.php on line 325
+[08-Apr-2018 02:31:10 Asia/Kolkata] PHP Fatal error:  Unsupported operand types in /home/saletanc/public_html/pipe/application/models/Calendar_model.php on line 53
+[08-Apr-2018 02:32:44 Asia/Kolkata] PHP Fatal error:  Unsupported operand types in /home/saletanc/public_html/pipe/application/models/Calendar_model.php on line 53
+[08-Apr-2018 02:32:53 Asia/Kolkata] PHP Fatal error:  Unsupported operand types in /home/saletanc/public_html/pipe/application/models/Calendar_model.php on line 53
+[08-Apr-2018 02:43:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/saletanc/public_html/pipe/application/models/Calendar_model.php on line 64
+[08-Apr-2018 09:07:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'form' (T_STRING) in /home/saletanc/public_html/pipe/application/views/company_info.php on line 436
+[08-Apr-2018 09:13:00 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/saletanc/public_html/pipe/application/views/company_info.php on line 441
+[08-Apr-2018 09:57:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/saletanc/public_html/pipe/application/models/Show_appoint.php on line 168
+[09-Apr-2018 21:25:54 Asia/Kolkata] PHP Fatal error:  Call to a member function where() on a non-object in /home/saletanc/public_html/pipe/application/models/Show_appoint.php on line 226
